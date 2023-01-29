@@ -6,6 +6,6 @@
 *
 * Módulos
 * https://www.npmjs.com/package/prompt-sync
-* https://www.npmjs.com/package/mathjs
+* ### npm instal math ###
 *
 */
