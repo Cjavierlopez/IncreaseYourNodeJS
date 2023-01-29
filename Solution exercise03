@@ -9,8 +9,8 @@ fs.readFile ('./gerald.txt','utf-8', (err,data) => {
   console.log(wordsCount);
 });
 
-// I used a one .txt named gerald (it´s a fragment of the first book of The Witcher in spanish.
-// In the variable const words I'm used an metohd to extract all of caracters like - . , ; ... (/  \b  \w  +  \b  /g).
+// I used a one .txt named gerald (it´s a fragment of the first book of The Witcher in spanish.)
+// In the variable const words I used an metohd to extract all of caracters like - . , ; ... (/  \b  \w  +  \b  /g).
 
 
 // I HOPE YOU ENJOYED THIS EXERCISE, LET'S GO TO NEXT ONE!!
