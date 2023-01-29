@@ -13,4 +13,4 @@ fs.readFile ('./gerald.txt','utf-8', (err,data) => {
 // In the variable const words I'm used an metohd to extract all of caracters like - . , ; ... (/  \b  \w  +  \b  /g).
 
 
-I HOPE YOU ENJOYED THIS EXERCISE, LET'S GO TO NEXT ONE!!
+// I HOPE YOU ENJOYED THIS EXERCISE, LET'S GO TO NEXT ONE!!
