@@ -28,3 +28,16 @@ while (true){
     break;
   }
 }
+
+// SOLUTION 2
+const prompt = require('prompt-sync')();
+const math = require('mathjs');
+
+function calculateArea(){
+  const radius = prompt('Ingresa el radio: ');
+  const area = math.pi * math.pow(radius, 2);
+  
+  console.log(`El área del círculo es: ${area}`);
+}
+
+calculateArea()
